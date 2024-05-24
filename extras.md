@@ -21,6 +21,13 @@ For CI/CD you can take advantage of MobSF REST API
 * **mobsfscan SAST CI/CD** - [mobsfscan](https://github.com/MobSF/mobsfscan)
 ***
 
+## MobSF Bash Script Documentation: Analyzing Mobile Security with Ease
+[You can now run MobSF with Ease as command.] (https://medium.com/@sohilshresthaofficial/mobsf-bash-script-documentation-analyzing-mobile-security-with-ease-ce7ec7ebfd8d)
+Like this :- 
+  $ mobsf -s | mobsf --static
+  $ mobsf -d $ip -p $port | mobsf --dynamic $ip -p $port
+
+
 
 ## Mass Static Analysis
 
